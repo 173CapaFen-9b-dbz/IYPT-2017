@@ -1,21 +1,22 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
+Sınıf  | Öğrenci İsmi       | Numara
+-------|--------------------|--------
+9-B    | Beyza Oflaz        | 536
+9-B    | Zehra Şeyhanlıoğlu | 547
+9-B    | Duru Türkmen       | 607
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+WHISPERING GALLERY
+   Öncelikle,bizim takım olarak seçtiğimiz proje 2006 yılına ait olan "Whispering Gallery" sorusudur.Bu soru Londra'da bulunan St. Paul Katedrali'ndeki "Fısıldayan Galeri"den esinlenilmiştir.Galerinin bir ucundaki bir insanın fısıltısı,diğer bir ucundan duyulabilmektedir.Bizim de araştırmak istediğimiz nokta,bu gibi mimari yapıya sahip olan binaları akustik yapıları.
+   Bu projeyi yaparken,Londra'ya gitme gibi bir imkanımız olmadığı için,İstanbul'da bulunup bu yapıya sahip olan binaları araştıracak,gözlemleyecek ve tıpkı bahsedildiği gibi bulunacağımız yerin bir ucundan diğer bir ucuna alçak sesle konuşup bunun sırrını çözmeye çalışacağız.
+   Ama öncelikle "Fısıldayan Galeri" ve akustik olayı hakkında daha çok yazı ve makale okuyacağız.
+   Ayrıca,çevremizde bize yardım edebilecek fizikçi ve mimar gibi insanlar bulunduğundan,onlarla konuşacak ve yardım alacağız.
+   Ve bizce bu yapının fiziksel olayının yanı sıra,sosyal hayatı da etkileyen bir yapısı var.Umarız k insanlar bunun farkına varır ve verilmesi istenen mesajı anlayabilirler.
+   Söylediğimiz tüm bu şeylerin ayrıntılarını birkaç haftaya hazırlayacağımız "Fizik Performans Ödevi"nde yer vereceğiz.
 
-#  (buraya proje başlığını yazınız)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+ 1. http://www.sonicwonders.org/whispering-galleries/
+ 2. http://indicium-levis.blogspot.com.tr/2014/08/fsldayan-galeri.html?m=1
+ 3. http://www.thesun.co.uk/news/4700812/whispering-gallery-st-pauls-cathedral-london-lidia-dragescu-death/
